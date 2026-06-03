@@ -18231,6 +18231,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
         "timestamp": "2026-06-03T14:40:27.390783+00:00Z",
         "changes": [
             {
@@ -18241,6 +18242,18 @@
                 "type": "modified",
                 "old_value": "sync_lag",
                 "new_value": "sync_ok"
+=======
+        "timestamp": "2026-06-03T14:39:33.218015+00:00Z",
+        "changes": [
+            {
+                "team": "EmberStake",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.EmberStake.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "6781137",
+                "new_value": "6782012"
+>>>>>>> Stashed changes
             },
             {
                 "team": "EmberStake",
@@ -18250,6 +18263,27 @@
                 "type": "modified",
                 "old_value": "sync_lag",
                 "new_value": "sync_ok"
+<<<<<<< Updated upstream
+=======
+            },
+            {
+                "team": "EmberStake",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.EmberStake.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "6781137",
+                "new_value": "6782012"
+            },
+            {
+                "team": "EmberStake",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.EmberStake.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+>>>>>>> Stashed changes
             }
         ]
     }

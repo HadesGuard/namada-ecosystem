@@ -12247,11 +12247,27 @@
         ]
     },
     {
+<<<<<<< Updated upstream
         "timestamp": "2026-06-03T14:40:27.390783+00:00Z",
+=======
+        "timestamp": "2026-06-03T14:39:33.218015+00:00Z",
+>>>>>>> Stashed changes
         "changes": [
             {
                 "team": "Stake&Relax \ud83e\udda5",
                 "service": "rpc",
+<<<<<<< Updated upstream
+=======
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "6781133",
+                "new_value": "6782008"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "rpc",
+>>>>>>> Stashed changes
                 "field": "sync_state",
                 "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.rpc.sync_state",
                 "type": "modified",
