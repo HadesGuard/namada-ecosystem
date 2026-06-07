@@ -3764,5 +3764,19 @@
                 "new_value": "6826762"
             }
         ]
+    },
+    {
+        "timestamp": "2026-06-07T07:31:09.273263+00:00Z",
+        "changes": [
+            {
+                "team": "Heliax",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Heliax.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
